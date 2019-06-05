@@ -1,0 +1,39 @@
+---
+layout: nil
+---
+CACHE MANIFEST
+# rev {{ site.time | date_to_xmlschema }}
+assets/css/style.css
+assets/css/print.css
+assets/js/scale.fix.js
+assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2
+assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2
+assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2
+imgs/action-icon-android.png
+imgs/action-icon-ios6.png
+imgs/action-icon-ios7.png
+imgs/icon-152x152.png
+imgs/icon-16x16.png
+imgs/icon-196x196.png
+imgs/icon.svg
+safari-pinned-tab.svg
+mstile-150x150.png
+manifest.json
+jquery-3.3.1.min.js
+index.html
+français.html
+favicon.ico
+favicon-32x32.png
+favicon-16x16.png
+croplife-logo.png
+browserconfig.xml
+apple-touch-icon.png
+android-chrome-512x512.png
+android-chrome-192x192.png
+addtohomescreen.js
+addtohomescreen.css
+{% for post in site.posts %}{{ post.id }}/
+{% endfor %}
+
+NETWORK:
+*

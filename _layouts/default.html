@@ -1,0 +1,115 @@
+<!doctype html>
+<html manifest="manifest.manifest" lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ site.title | default: site.github.repository_name }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    <!-- Add to HomeScreen pop-up  -->
+    <script src="addtohomescreen.js"></script>
+    <link rel="stylesheet" type="text/css" href="addtohomescreen.css">
+    <!-- Favicons and general manifests  -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png?v=kPxo4RYkpx">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png?v=kPxo4RYkpx">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png?v=kPxo4RYkpx">
+    <link rel="manifest" href="manifest.json?v=kPxo4RYkpx">
+    <link rel="mask-icon" href="safari-pinned-tab.svg?v=kPxo4RYkpx" color="#5bbad5">
+    <link rel="shortcut icon" href="favicon.ico?v=kPxo4RYkpx">
+    <meta name="apple-mobile-web-app-title" content="Policy Manual">
+    <meta name="application-name" content="Policy Manual">
+    <meta name="theme-color" content="#ffffff">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- Styles for printing -->
+    <link rel="stylesheet" media="print" type="text/css" href="{{ '/assets/css/print.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="jquery-3.3.1.min.js"></script>
+    <script>
+      $( document ).ready(function() {
+        $( "h2" ).each(function( index ) {
+          $( this ).nextUntil( "h2" ).addBack().wrapAll( "<div class='h2group'></div>" );
+        });
+        $( "h3" ).each(function( index ) {
+          $( this ).nextUntil( "h3" ).addBack().wrapAll( "<div class='h3group'></div>" );
+        });
+        $( "h2" ).each(function( index ) {
+          $( this ).next( ".h3group" ).addBack().wrapAll( "<div class='h23group'></div>" );
+        });
+        $( "h3" ).each(function( index ) {
+          if ($( this ).parent().parent().is( ".h23group" )) {
+            $( this ).unwrap();
+          }
+        });
+        $('.h2group').not(':has(h3)').wrapInner("<div class='h23group'></div>");
+      });
+    </script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <img id="logo" src="croplife-logo.png" alt="Crop Life Canada logo"/>
+        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
+        <p id="sitedescriptiontext">{{ site.description | default: site.github.project_tagline }}</p>
+        <p id="languageparagraph"><strong><a href="français.html">Version française</a></strong></p>
+        <p id="contactparagraph" class="view"><a href="mailto:{{ site.contactaddress }}">Contact us</a></p>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+      </footer>
+    </div>
+    <button onclick="topFunction()" id="backToTop" title="Back to top">▲ Back to top</button>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <script>
+      // When the user scrolls down 100px from the top of the document, show the button
+      window.onscroll = function() {scrollFunction()};
+
+      function scrollFunction() {
+          if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+              document.getElementById("backToTop").style.display = "block";
+          } else {
+              document.getElementById("backToTop").style.display = "none";
+          }
+      }
+
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+          document.body.scrollTop = 0; // For Safari
+          document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+      }
+      
+      // Translate the page title and such if we're on the French page
+      $( document ).ready(function() {
+        if (window.location.pathname.indexOf('fran') > -1) {
+          $("header h1").html("Manuel des politiques du Comité de chimie");
+          $("#sitedescriptiontext").text(function (i, old) {
+            return old
+              .replace('Winter', 'Hiver')
+              .replace('Spring', 'Printemps')
+              .replace('Summer', 'Été')
+              .replace('Fall', 'Automne')
+              .replace('Issue', 'Édition');
+          });
+          $("#contactparagraph a").html("Contactez-nous");
+          $("#languageparagraph").html("<strong><a href=\"index.html\">English version</a></strong>");
+          $("#backToTop").html("▲ Haut de page");
+        }
+        
+      });
+      
+    </script>
+    <script>
+    	addToHomescreen({
+    	   skipFirstVisit: false,
+    	   maxDisplayCount: 2,
+    	   lifespan: 30
+    	});
+  	</script>
+  </body>
+</html>
