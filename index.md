@@ -6,32 +6,33 @@ The date that appears after the issue title indicates when the policy, motion or
 
 ## Table of Contents
 
-- Chemistry Committee mandate &amp; organization
-- Chemistry Committee meeting schedule 2019
+- [Chemistry Committee mandate and organization](#chemistry-committee-mandate-and-organization)
+- [Chemistry Committee meeting schedule 2019](#2019-meeting-schedule)
 - CropLife Canada: Vision, mandate and values
 - Tier 1 Priorities
-  - Fungicides: Pollinator health
-  - Fungicides: Value of co-formulated products
-  - Maximum residue limits (MRLs) and trade
-  - National surface water monitoring for pesticides
-  - Ontario pesticide reform – neonicotinoids and agriculture
-  - Ontario pesticide reform – OPAC
-  - Ontario pesticide reform – urban
-  - PCPA legislative review 2020
-  - PMRA re-evaluation – cost recovery
-  - PMRA re-evaluation process improvement
-  - Protected agriculture stewardship
+  - [Fungicides: Pollinator health](#fungicides-pollinator-health-see-also-pollinators-and-neonics)
+  - [Fungicides: Value of co-formulated products](#fungicides-value-of-co-formulated-products)
+  - [Maximum residue limits (MRLs) and trade](#maximum-residue-limits-mrls-and-trade)
+  - [National surface water monitoring for pesticides](#national-surface-water-monitoring-for-pesticides)
+  - [Ontario pesticide reform – neonicotinoids and agriculture](#ontario-pesticide-reform--neonicotinoids-and-agriculture)
+  - [Ontario pesticide reform – OPAC](#ontario-pesticide-reform--ontario-pesticide-advisory-committee-opac)
+  - [Ontario pesticide reform – urban](#ontario-pesticide-reform---urban)
+  - [PCPA legislative review 2020](#pcpa-legislative-review-2020)
+  - [PMRA re-evaluation – cost recovery](#pmra-re-evaluation--cost-recovery)
+  - [PMRA re-evaluation process improvement](#pmra-re-evaluation-process-improvement)
+  - [Protected agriculture stewardship](#protected-agriculture-stewardship)
 - Other Issues
-  - BIT disruption
-  - CGC Market Acceptance Policy
-  - CropLife Canada support of CAAR
-  - Defending modern agriculture innovations
-  - Drones: Label expansion
-  - Manage Resistance Now
-  - Regulatory Efficiency
-  - Plant Science Technologies: Helping Canada Grow
-  - Pollinators &amp; neonics
-  - Urban pesticides
+  - [BIT disruption](#bit-disruption)
+  - [CGC Market Acceptance Policy](#cgc-market-acceptance-policy)
+  - [CropLife Canada support of CAAR](#croplife-canada-support-of-caar)
+  - [Defending modern agriculture innovations](#defending-modern-agriculture-innovations)
+  - [Drones: Label expansion](#drones-label-expansion)
+  - [Manage Resistance Now](#manage-resistance-now)
+  - [Plant Science Technologies: Helping Canada Grow](#plant-science-technologies-helping-canada-grow)
+  - [Pollinators and neonics](#pollinators-and-neonics--ontario-and-quebec)
+  - [Regulatory Efficiency](#regulatory-efficiency)
+  - [Urban pesticides](#urban-pesticides)
+- [CropLife Canada Mission and Values](#mission-and-values)
 
 ## Chemistry Committee mandate and organization
 
@@ -81,7 +82,7 @@ China Strategy
 - If China's import tolerance policy towards Canada were to be predictable, this market would be a lower tier work priority.
 
 European Union
-- The current level of effort is appropriate with participation in the CLI MRL &amp; Trade Task Force and the CLA Trade Team.
+- The current level of effort is appropriate with participation in the CLI MRL and Trade Task Force and the CLA Trade Team.
 - Consideration should be given to developing an industry strategy to deal with loss of AIs from EU market.
 
 ## National surface water monitoring for pesticides
@@ -122,7 +123,7 @@ May 2019     Quarterly
 
 May 2019     Quarterly
 
-- That the Government of Ontario lift the so-called &quot;cosmetic&quot; pesticide ban to instead return to a level playing field for Ontario homeowners and small business people.
+- That the Government of Ontario lift the so-called "cosmetic" pesticide ban to instead return to a level playing field for Ontario homeowners and small business people.
 - That we do not support the creation of a new class of pesticides granting an application monopoly to licensed applicators to the detriment of homeowners.
 
 ## PCPA legislative review 2020
@@ -131,7 +132,7 @@ May 2019     Quarterly
 
 - That pre- and post-market reviews include stronger consideration of social and economic value.
 - That guidance be provided to clarify acceptable risk and unacceptable risk to assure transparency.
-- That Europe's interpretation of the precautionary principle continues to be rejected and has no place in the Act – Canada's risk-based approach is appropriate and already consistent with regulators' &quot;duty to prevent harm&quot;;
+- That Europe's interpretation of the precautionary principle continues to be rejected and has no place in the Act – Canada's risk-based approach is appropriate and already consistent with regulators' "duty to prevent harm";
 - That evaluations be completed in a timely fashion but that legislated timeframes are not appropriate; and
 - That the Act's provisions for greater transparency and openness continue to be appropriately balanced with the protection of confidential business information in order to drive continued innovation.
 
@@ -266,6 +267,7 @@ May 2019     Annual
 - That homeowners benefit from the control a wide range of pests, including: cockroaches, ants, spiders, silverfish, flies, mosquitoes, fleas, ticks and bed bugs, rats and mice.
 - That pest control products are also used in plastics, paints, and caulking to prevent mold, and in toilet bowl cleaners and disinfectants to protect health.
 
+## Mission and Values
 
 **CropLife Canada is the trusted, unified voice of Canada's plant science industry.**
 

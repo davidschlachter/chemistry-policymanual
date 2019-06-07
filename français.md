@@ -6,32 +6,32 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
 
 ## Table des matières 
 
-- Mandat et organisation du Comité de chimie
-- Calendrier des réunions 2019 du Comité de chimie
-- CropLife Canada : Vision, mandat et valeurs
+- [Mandat et organisation du Comité de chimie](#mandat-et-organisation-du-comité-de-chimie)
+- [Calendrier des réunions 2019 du Comité de chimie](#calendrier-des-réunions-2019)
 - Priorités de niveau 1
-  - Fongicides : Santé des pollinisateurs
-  - Fongicides : Valeur des produits coformulés
-  - Limites maximales de résidus (LMR) et commerce
-  - Surveillance nationale des eaux de surface pour les pesticides
-  - Réforme des pesticides en Ontario – néonicotinoïdes et agriculture
-  - Réforme des pesticides en Ontario – CCOP
-  - Réforme des pesticides en Ontario – milieu urbain
-  - Examen législatif de la LPA en 2020
-  - Réévaluation de l’ARLA – recouvrement des coûts
-  - Amélioration du processus de réévaluation de l’ARLA
-  - Gestion responsable de l’agriculture protégée
+  - [Fongicides : Santé des pollinisateurs](#fongicides--santé-des-pollinisateurs-voir-aussi-pollinisateurs-et-néonics)
+  - [Fongicides : Valeur des produits coformulés](#fongicides--valeur-des-produits-coformulés)
+  - [Limites maximales de résidus (LMR) et commerce](#limites-maximales-de-résidus-lmr-et-commerce)
+  - [Surveillance nationale des eaux de surface pour les pesticides](#surveillance-nationale-des-eaux-de-surface-pour-les-pesticides)
+  - [Réforme des pesticides en Ontario – néonicotinoïdes et agriculture](#réforme-des-pesticides-en-ontario--néonicotinoïdes-et-agriculture)
+  - [Réforme des pesticides en Ontario – CCOP](#réforme-des-pesticides-en-ontario--comité-consultatif-de-lontario-sur-les-pesticides-ccop)
+  - [Réforme des pesticides en Ontario – milieu urbain](#réforme-des-pesticides-en-ontario--milieu-urbain)
+  - [Examen législatif de la LPA en 2020](#examen-législatif-de-la-loi-sur-les-produits-antiparasitaires-lpa-en-2020)
+  - [Réévaluation de l’ARLA – recouvrement des coûts](#réévaluation-de-larla--recouvrement-des-coûts)
+  - [Amélioration du processus de réévaluation de l’ARLA](#amélioration-du-processus-de-réévaluation-de-larla)
+  - [Gestion responsable de l’agriculture protégée](#gestion-responsable-de-lagriculture-protégée)
 - Autres sujets
-  - Pénurie de BIT
-  - Politique sur l’acceptation par le marché de la CCG
-  - Soutien de CropLife Canada à la CAAR
-  - Défendre les innovations de l’agriculture moderne
-  - Drones : Ajout aux étiquettes
-  - Gérer la résistance maintenant
-  - Efficacité règlementaire 
-  - Technologies de la phytologie : Aider le Canada à croître
-  - Pollinisateurs et néonics
-  - Pesticides en milieu urbain
+  - [Pénurie de BIT](#pénurie-de-benzisothiazolinone-bit)
+  - [Politique sur l’acceptation par le marché de la CCG](#politique-sur-lacceptation-par-le-marché-du-conseil-des-grains-du-canada-ccg)
+  - [Soutien de CropLife Canada à la CAAR](#soutien-de-croplife-canada-à-lassociation-canadienne-des-détaillants-agricoles-caar)
+  - [Défendre les innovations de l’agriculture moderne](#défendre-les-innovations-de-lagriculture-moderne)
+  - [Drones : Ajout aux étiquettes](#drones--ajout-aux-étiquettes)
+  - [Gérer la résistance maintenant](#gérer-la-résistance-maintenant)
+  - [Technologies de la phytologie : Aider le Canada à croître](#technologies-de-la-phytologie--aider-le-canada-à-croître)
+  - [Pollinisateurs et néonics](#pollinisateurs-et-néonics--ontario-et-québec)
+  - [Efficacité règlementaire](#efficacité-règlementaire)
+  - [Pesticides en milieu urbain](#pesticides-en-milieu-urbain)
+- [CropLife Canada : Vision, mandat et valeurs](#vision-mandat-et-valeurs)
 
 ## Mandat et organisation du Comité de chimie
 
@@ -305,6 +305,7 @@ Mai 2019     Chaque année
 •	Que les produits antiparasitaires sont également utilisés dans les plastiques, les peintures et le calfeutrage pour prévenir les moisissures, ainsi que dans les nettoyants et désinfectants pour cuvettes de toilettes afin de protéger la santé.
 
 
+## Vision, mandat et valeurs
 
 
 **CropLife Canada est la voix unifiée et digne de confiance de l’industrie canadienne de la phytologie**
