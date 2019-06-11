@@ -80,9 +80,14 @@
       // When the user clicks on the button, scroll to the top of the document
       var scrollPosition = 0;
       function topFunction() {
-          scrollPosition = 0; // Reset each timw
           document.body.scrollTop = scrollPosition; // For Safari
           document.documentElement.scrollTop = scrollPosition; // For Chrome, Firefox, IE and Opera
+          scrollPosition = 0; // Reset each time
+          // https://stackoverflow.com/a/13824103
+          window.location.replace("#");
+          if (typeof window.history.replaceState == 'function') {
+            history.replaceState({}, '', window.location.href.slice(0, -1));
+          }
       }
       
       $( document ).ready(function() {
