@@ -130,5 +130,11 @@
       debug: false
     });
   	</script>
+    <script>
+      // Refresh page on app manifest update
+      // https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/SafariJSDatabaseGuide/OfflineApplicationCache/OfflineApplicationCache.html
+      function updateSite(event) {window.applicationCache.swapCache();}
+      window.applicationCache.addEventListener('updateready', updateSite, false);
+    </script>
   </body>
 </html>
