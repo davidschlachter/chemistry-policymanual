@@ -77,7 +77,7 @@ Mai 2019      Chaque année
 •	Que nous collaborions avec les gouvernements et les partenaires afin de créer les conditions qui permettent à la Chine de promulguer des règles de tolérance à l’importation transparentes, prévisibles et fondées sur les risques, sur la base des normes et directives internationales, reconnaissant que les LMR facilitent les échanges en assurant que les pesticides ont été appliqués conformément aux spécifications homologuées qui figurent sur l’étiquette et qu’elles ne sont pas des normes de sécurité alimentaire.  
 •	Que nous collaborions avec les gouvernements et nos partenaires afin de contenir les approches européennes fondées sur les dangers et de défendre les décisions fondées sur les risques permettant aux agriculteurs de continuer à accéder aux outils et technologies modernes qui les maintiennent compétitifs aux niveaux national et mondial.
 
-[12 septembre 2018 ](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf) Directive au personnel
+12 septembre 2018  Directive au personnel
 
 Stratégie de la Chine
 
@@ -100,15 +100,15 @@ _En raison de l’absence d’un réseau pancanadien cohérent d’études sur l
 •	Que des protocoles nationaux robustes, clairs et transparents soient explorés afin de donner à l’ARLA la possibilité d’affiner en toute confiance les évaluations des risques postérieures à la mise sur le marché, au besoin, et de documenter l’efficacité des initiatives d’atténuation des risques menées par les producteurs et l’industrie.
 
 
-[22 janvier 2019](https://members.croplife.ca/wp-content/uploads/2019/01/Draft-Minutes-January-22-2019-Chemistry-Committee-Meeting-Calgary-V2.pdf)     Directive au personnel
+22 janvier 2019    Directive au personnel
 
 Recueillir plus d’informations sur la surveillance des eaux au Canada, dans d’autres pays et auprès d’autres acteurs actifs dans ce domaine, y compris les universités et l’industrie pharmaceutique, afin d’éclairer l’évolution future des positions politiques de CropLife Canada (CLC).
 
-[29 novembre 2018](https://members.croplife.ca/wp-content/uploads/2018/12/Draft-Minutes-November-29-2018-Chemistry-Committee-Meeting-Ottawa-002.pdf)     Directive au personnel
+29 novembre 2018    Directive au personnel
 
 Jouer un rôle de premier plan dans la recommandation d’un programme national de surveillance des eaux (y compris la vision, les objectifs, le ministère responsable, les modèles de financement, etc.).
 
-[12 septembre 2018](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf)     Directive au personnel
+12 septembre 2018    Directive au personnel
 
 Participer activement au développement dans le but de s’assurer d’avoir son mot à dire. Bien que les membres de CLC puissent envisager de contribuer financièrement pour garantir que nous puissions continuer, de manière crédible, à diriger les activités d’une telle initiative, ils ne devraient pas en être les principaux bailleurs de fonds.
 
@@ -153,7 +153,7 @@ Mai 2019     Chaque trimestre
 
 ## Réévaluation de l’ARLA – recouvrement des coûts
 
-[12 septembre 2018](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf)     Directive au personnel
+12 septembre 2018   Directive au personnel
 
 •	Les conditions suivantes doivent être remplies avant qu’une conversation sur le recouvrement des coûts soit appropriée :
 o	Problèmes de protection des données (Protection des droits de propriété sur les données concernant les produits antiparasitaires) résolus à la satisfaction de l’industrie;
@@ -176,7 +176,7 @@ Les changements apportés par l’ARLA à son processus de réévaluation en 201
 •	Que des consultations publiques sur le projet d’évaluation des risques soient organisées séparément de la décision proposée, qui comprend des mesures proposées d’atténuation des risques.
 •	Que le gouvernement du Canada reconnaisse officiellement le rôle économique que joue l’ARLA dans la facilitation ou l’interdiction d’accès des producteurs à des technologies innovantes en l’incluant dans son mandat et en allouant les ressources appropriées à ce travail.
 
-[12 septembre 2018](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf)     Directive au personnel
+12 septembre 2018    Directive au personnel
 
 •	Le Comité a donné comme instruction au personnel de plaider en faveur d’un mandat économique/de croissance pour l’ARLA. 
 
@@ -190,7 +190,7 @@ Mai 2018     Chaque semestre
 
 •	Qu’une approche crédible de gestion responsable du cycle de vie des pesticides, dirigée par l’industrie, soit élaborée et mise en œuvre de manière collaborative. Que cette approche comprenne implicitement l’adhésion à des normes nationales supervisées par l’industrie afin de soutenir le respect des directives homologuées figurant sur les étiquettes de pesticides et d’assurer la santé et la sécurité des personnes et de l’environnement.
 
-[12 septembre 2018](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf)     Directive au personnel
+12 septembre 2018    Directive au personnel
 
 •	Procéder de manière proactive à cette initiative même si l’ARLA ne considère pas ce sous-secteur comme une préoccupation majeure, car elle fera face à la survenance de problèmes supplémentaires par la surveillance nationale de l’eau dans l’avenir.
 •	Il est entendu qu’une politique de non-expédition à l’échelle de l’industrie serait la façon de s’assurer de la conformité. 
@@ -221,7 +221,7 @@ Mai 2019    Chaque trimestre
 
 ## Soutien de CropLife Canada à l’Association canadienne des détaillants agricoles (CAAR)
 
-[12 septembre 2018](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf)    Résolution
+12 septembre 2018    Résolution
 
 •	Résolution : Que le soutien à la CAAR soit laissé à la discrétion de chaque entreprise, que la représentation de CropLife Canada au conseil de la CAAR ne semble pas nécessaire pour le moment et que CropLife Canada soutienne plutôt le conseil de la CAAR lorsqu’elle est en phase avec les priorités de CropLife Canada.
 
@@ -248,7 +248,7 @@ o	Plus il y a d’études, plus il y a de résultats aberrants que l’on peut u
 
 ## Drones : Ajout aux étiquettes
 
-[12 septembre 2018](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf)    Directive au personnel
+12 septembre 2018   Directive au personnel
 
 •	La décision de procéder à un ajout à l’étiquette afin d’inclure l’application par drone incombe aux entreprises individuelles.
 

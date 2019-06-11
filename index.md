@@ -75,7 +75,7 @@ May 2019      Annual
 - That we engage with governments and partners to create conditions that allow China to promulgate transparent, predictable, risk-based import tolerance regulations based on international standards and guidelines, recognizing that MRLs facilitate trade by verifying that pesticides have been applied according to registered label specifications and that they are not food safety standards.
 - That we engage with governments and our partners to contain Europe's hazard-based approaches and defend risk-based decisions that allow farmers to continue to access modern tools and technologies that keep them competitive domestically and globally.
 
-[September 12, 2018 ](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf) Staff Directive
+September 12, 2018 Staff Directive
 
 China Strategy
 
@@ -93,15 +93,15 @@ _In response to the absence of a coherent, Canada-wide network of pesticide wate
 
 - That robust, clear and transparent national protocols be explored as a means to provide PMRA with the ability to confidently refine post-market risk assessments when needed and to document the effectiveness of industry and grower-led risk mitigation initiatives.
 
-[January 22, 2019 ](https://members.croplife.ca/wp-content/uploads/2019/01/Draft-Minutes-January-22-2019-Chemistry-Committee-Meeting-Calgary-V2.pdf) Staff Directive
+January 22, 2019  Staff Directive
 
 Gather more information about water monitoring in Canada, in other jurisdictions and from other actors active in this subject area, including academics and the pharmaceutical industry to inform further development of CLC's policy positions.
 
-[November 29, 2018    ](https://members.croplife.ca/wp-content/uploads/2018/12/Draft-Minutes-November-29-2018-Chemistry-Committee-Meeting-Ottawa-002.pdf) Staff Directive
+November 29, 2018    Staff Directive
 
 Take a leadership role in recommending a national water monitoring program (including vision, objectives, responsible government department, funding models, etc.).
 
-[September 12, 2018](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf) Staff Directive
+September 12, 2018   Staff Directive
 
 Actively participate in development with a view to ensuring having a say. While CLC members may consider contributing financially to ensure we can credibly continue to direct its activities, CLC members should not be the principle funders of such an initiative.
 
@@ -138,7 +138,7 @@ May 2019     Quarterly
 
 
 ## PMRA re-evaluation – cost recovery
-[September 12, 2018    ](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf) Staff Directive
+September 12, 2018     Staff Directive
 
 - The following conditions need to be met before a conversation about cost re-recovery would be appropriate:
   - Data protection issues (PPIP) resolved to industry satisfaction;
@@ -159,7 +159,7 @@ _The changes PMRA made to its re-evaluation process in 2016 have resulted in inc
 - That public consultations be sought on the draft risk assessment separately from the proposed decision that includes proposed risk mitigation measures.
 - That the Government of Canada formally acknowledge the economic role PMRA plays in facilitating or inhibiting grower access to innovative technologies by including this in its mandate and by allocating the appropriate resources for this work.
 
-[September 12, 2018    ](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf) Staff Directive
+September 12, 2018     Staff Directive
 - The Committee directed staff to advocate for an economic/growth mandate for PMRA.
 
 
@@ -171,7 +171,7 @@ May 2018     Semiannual
 
 - That a credible industry-led pesticide lifecycle stewardship approach be collaboratively constructed and implemented that includes adherence to national standards that are within industry control to support compliance with registered pesticide label directions and ensure the health and safety of people and the environment.
 
-[September 12, 2018](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf) Staff Directive
+September 12, 2018 Staff Directive
 
 - Proactively proceed with this initiative even if PMRA does not see this subsector as a major concern as it addresses the risk of additional problems being identified through national water monitoring in the future.
 - It is understood that an industry-wide no-ship policy would be how compliance would be assured.
@@ -196,7 +196,7 @@ May 2019    Quarterly
 
 ## CropLife Canada support of CAAR
 
-[September 12, 2018    Motion](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf)
+September 12, 2018    Motion
 
 - Motion: That support for CAAR be left as a company-specific decision, that CropLife Canada representation on the CAAR Board is not merited at this time and that CropLife Canada instead support the CAAR Board when aligned with CropLife Canada priorities.
 
@@ -219,7 +219,7 @@ _As seen with glyphosate in the United States and other jurisdictions, if left u
 
 
 ## Drones: Label expansion
-[September 12, 2018  ](https://members.croplife.ca/wp-content/uploads/2018/11/Draft-Minutes-September-12-2018-Chemistry-Committee-Meeting-Toronto-V3.pdf) Staff Directive
+September 12, 2018   Staff Directive
 
 - The decision to proceed with a label expansion to include drone application resides with individual companies.
 
