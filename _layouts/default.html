@@ -54,7 +54,7 @@
         <p id="sitedescriptiontext">{{ site.description | default: site.github.project_tagline }}</p>
         <p id="languageparagraph"><strong><a href="français.html">Version française</a></strong></p>
         <p id="contactparagraph" class="view"><a href="mailto:{{ site.contactaddress }}">Contact us</a></p>
-
+        <p id="refreshpage" class=view><a style="color:gray;" onclick="window.location.refresh(true)" href="#">Refresh page</a></p>
       </header>
       <section>
 
@@ -102,6 +102,7 @@
               .replace('Issue', 'Édition');
           });
           $("#contactparagraph a").html("Contactez-nous");
+          $("#refreshpage a").html("Recharger la page");
           $("#languageparagraph").html("<strong><a href=\"index.html\">English version</a></strong>");
           $("#backToTop").html("▲ Haut de page");
         }
