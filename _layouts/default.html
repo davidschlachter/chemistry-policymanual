@@ -69,7 +69,6 @@
     <script>
       // When the user scrolls down 100px from the top of the document, show the button
       window.onscroll = function() {scrollFunction()};
-
       function scrollFunction() {
           if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
               document.getElementById("backToTop").style.display = "block";
@@ -79,9 +78,10 @@
       }
 
       // When the user clicks on the button, scroll to the top of the document
+      var scrollPosition = 0;
       function topFunction() {
-          document.body.scrollTop = 0; // For Safari
-          document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+          document.body.scrollTop = scrollPosition; // For Safari
+          document.documentElement.scrollTop = scrollPosition; // For Chrome, Firefox, IE and Opera
       }
       
       $( document ).ready(function() {
@@ -100,6 +100,11 @@
           $("#languageparagraph").html("<strong><a href=\"index.html\">English version</a></strong>");
           $("#backToTop").html("▲ Haut de page");
         }
+        
+        // For the TOC button
+        $("a").not("#backToTop").on('click', function () {
+          scrollPosition = window.scrollY;
+        });
         
         // Fix mailto links so that they work in mobile Safari
         // https://stackoverflow.com/a/2471032/3380815
