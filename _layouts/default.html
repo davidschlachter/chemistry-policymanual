@@ -25,7 +25,7 @@
     <![endif]-->
     <!-- Styles for printing -->
     <link rel="stylesheet" media="print" type="text/css" href="{{ '/assets/css/print.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="jquery-3.3.1.min.js"></script>
+    <script src="jquery-3.4.1.min.js"></script>
     <script>
       $( document ).ready(function() {
         $( "h2" ).each(function( index ) {
@@ -84,8 +84,8 @@
           document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
       }
       
-      // Translate the page title and such if we're on the French page
       $( document ).ready(function() {
+        // Translate the page title and such if we're on the French page
         if (window.location.pathname.indexOf('fran') > -1) {
           $("header h1").html("Manuel des politiques du Comité de chimie");
           $("#sitedescriptiontext").text(function (i, old) {
@@ -100,6 +100,14 @@
           $("#languageparagraph").html("<strong><a href=\"index.html\">English version</a></strong>");
           $("#backToTop").html("▲ Haut de page");
         }
+        
+        // Fix mailto links so that they work in mobile Safari
+        // https://stackoverflow.com/a/2471032/3380815
+        $('a[href^=mailto]').click(function (event) {
+            event.preventDefault();
+            window.location.href = $(this).attr('href');
+            return false;
+        });
         
       });
       
