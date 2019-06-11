@@ -78,11 +78,11 @@
       }
 
       // When the user clicks on the button, scroll to the top of the document
-      var scrollPosition = 0;
+      window.policyScrollPosition = 0;
       function topFunction() {
-          document.body.scrollTop = scrollPosition; // For Safari
-          document.documentElement.scrollTop = scrollPosition; // For Chrome, Firefox, IE and Opera
-          scrollPosition = 0; // Reset each time
+          document.body.scrollTop = window.policyScrollPosition; // For Safari
+          document.documentElement.scrollTop = window.policyScrollPosition; // For Chrome, Firefox, IE and Opera
+          window.policyScrollPosition = 0; // Reset each time
           // https://stackoverflow.com/a/13824103
           window.location.replace("#");
           if (typeof window.history.replaceState == 'function') {
@@ -109,7 +109,7 @@
         
         // For the TOC button
         $("a").not("#backToTop").on('click', function () {
-          scrollPosition = window.scrollY;
+          window.policyScrollPosition = window.scrollY;
         });
         
         // Fix mailto links so that they work in mobile Safari
