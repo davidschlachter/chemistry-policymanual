@@ -38,9 +38,9 @@ The date that appears after the issue title indicates when the policy, motion or
 
 Mandate: Based on CropLife Canada's priorities, to provide strategic oversight, direction and alignment to the activities of the Chemistry Science and Regulatory Committee (CSRC), the Joint Urban/Non-Ag Committee (CropLife Canada/Fertilizer Canada) and the Resistance Management Committee with the support of government affairs and communications, to achieve the desired outcomes for issues and interests identified by the Chemistry Committee for pest control products used in agriculture, urban/non-agricultural and public health settings.
 
-Chair: [Craig Brekkas](mailto:Craig%20Brekkas%20%3craig.brekkas@arysta.com%3e?subject=Chemistry%20Committee) 1-720-550-6329 (mobile 1-720-625-2997)
+Chair: [Craig Brekkas](mailto:Craig%20Brekkas%20%3ccraig.brekkas@arysta.com%3e?subject=Chemistry%20Committee) 1-720-550-6329 (mobile 1-720-625-2997)
 
-Secretary: [Alan Schlachter](mailto:Alan%20Schlachter%20%3schlachtera@croplife.ca%3e?subject=Chemistry%20Committee) 613-230-9881 ext. 3225 (mobile 343-997-1869)
+Secretary: [Alan Schlachter](mailto:Alan%20Schlachter%20%3cschlachtera@croplife.ca%3e?subject=Chemistry%20Committee) 613-230-9881 ext. 3225 (mobile 343-997-1869)
 
 Committee Support: [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgstallerl@croplife.ca%3e?subject=Chemistry%20Committee)  613-230-9881 ext. 3221
 

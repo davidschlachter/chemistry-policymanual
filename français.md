@@ -37,9 +37,9 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
 
 Mandat : Sur la base des priorités de CropLife Canada, assurer la surveillance stratégique, la direction et l’harmonisation des activités du Comité de la science chimique et des affaires règlementaires (CSCAR), du Comité mixte urbain/non agricole (CropLife Canada/Fertilisants Canada) et du Comité de gestion de la résistance, avec le soutien des affaires gouvernementales et des communications, afin d’obtenir les résultats souhaités sur les sujets et intérêts définis par le Comité de chimie concernant les produits antiparasitaires utilisés à des fins agricoles, urbaines/non agricoles et de santé publique.
 
-Président : [Craig Brekkas](mailto:Craig%20Brekkas%20%3craig.brekkas@arysta.com%3e?subject=Chemistry%20Committee) 1-720-550-6329 (mobile 1-720-625-2997)
+Président : [Craig Brekkas](mailto:Craig%20Brekkas%20%3ccraig.brekkas@arysta.com%3e?subject=Chemistry%20Committee) 1-720-550-6329 (mobile 1-720-625-2997)
 
-Secrétaire : [Alan Schlachter](mailto:Alan%20Schlachter%20%3schlachtera@croplife.ca%3e?subject=Chemistry%20Committee) 613-230-9881 ext. 3225 (mobile 343-997-1869)
+Secrétaire : [Alan Schlachter](mailto:Alan%20Schlachter%20%3cschlachtera@croplife.ca%3e?subject=Chemistry%20Committee) 613-230-9881 ext. 3225 (mobile 343-997-1869)
 
 Soutien au Comité : [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgstallerl@croplife.ca%3e?subject=Chemistry%20Committee)  613-230-9881 ext. 3221
 
