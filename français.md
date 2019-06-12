@@ -37,9 +37,9 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
 
 Mandat : Sur la base des priorités de CropLife Canada, assurer la surveillance stratégique, la direction et l’harmonisation des activités du Comité de la science chimique et des affaires règlementaires (CSCAR), du Comité mixte urbain/non agricole (CropLife Canada/Fertilisants Canada) et du Comité de gestion de la résistance, avec le soutien des affaires gouvernementales et des communications, afin d’obtenir les résultats souhaités sur les sujets et intérêts définis par le Comité de chimie concernant les produits antiparasitaires utilisés à des fins agricoles, urbaines/non agricoles et de santé publique.
 
-Président : [Craig Brekkas](mailto:Craig%20Brekkas%20(craig.brekkas@arysta.com)?subject=Chemistry%20Committee) 1-720-550-6329 (mobile 1-720-625-2997)
+Président : [Craig Brekkas](mailto:Craig%20Brekkas%20%3craig.brekkas@arysta.com%3e?subject=Chemistry%20Committee) 1-720-550-6329 (mobile 1-720-625-2997)
 
-Secrétaire : [Alan Schlachter](mailto:schlachtera@croplife.ca?subject=Chemistry%20Committee) 613-230-9881 ext. 3225 (mobile 343-997-1869)
+Secrétaire : [Alan Schlachter](mailto:Alan%20Schlachter%20%3schlachtera@croplife.ca%3e?subject=Chemistry%20Committee) 613-230-9881 ext. 3225 (mobile 343-997-1869)
 
 Soutien au Comité : [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgstallerl@croplife.ca%3e?subject=Chemistry%20Committee)  613-230-9881 ext. 3221
 
@@ -57,9 +57,9 @@ Soutien au Comité : [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgsta
 
 Mai 2019    Chaque trimestre
 
-•	Que nous collaborions avec les apiculteurs de la Colombie-Britannique afin de mieux comprendre les causes de la mauvaise santé des colonies après la pollinisation des bleuets.
-•	Que la santé des abeilles est un problème complexe affecté par un certain nombre de facteurs et que l’industrie de la phytologie s’est engagée à participer aux efforts pour protéger les pollinisateurs.
-•	Que l’industrie de la phytologie appuie la prise de décisions éclairées fondées sur des données scientifiques concernant l’utilisation de pesticides en rapport avec la santé des pollinisateurs.
+- Que nous collaborions avec les apiculteurs de la Colombie-Britannique afin de mieux comprendre les causes de la mauvaise santé des colonies après la pollinisation des bleuets.
+- Que la santé des abeilles est un problème complexe affecté par un certain nombre de facteurs et que l’industrie de la phytologie s’est engagée à participer aux efforts pour protéger les pollinisateurs.
+- Que l’industrie de la phytologie appuie la prise de décisions éclairées fondées sur des données scientifiques concernant l’utilisation de pesticides en rapport avec la santé des pollinisateurs.
 
 
 
@@ -67,26 +67,26 @@ Mai 2019    Chaque trimestre
 
 Mai 2019     Chaque trimestre
 
-•	Que les fongicides coformulés permettent effectivement une efficacité à plus large spectre et aident à garantir que les organismes nuisibles pouvant résister à un mode d’action sont efficacement maîtrisés.
-•	Que les fongicides coformulés facilitent le mélange pour les producteurs et garantissent des doses correctes par l’offre de produits uniformes et stables dans un seul contenant.
+- Que les fongicides coformulés permettent effectivement une efficacité à plus large spectre et aident à garantir que les organismes nuisibles pouvant résister à un mode d’action sont efficacement maîtrisés.
+- Que les fongicides coformulés facilitent le mélange pour les producteurs et garantissent des doses correctes par l’offre de produits uniformes et stables dans un seul contenant.
 
 ## Limites maximales de résidus (LMR) et commerce 
 
 Mai 2019      Chaque année
 
-•	Que nous collaborions avec les gouvernements et les partenaires afin de créer les conditions qui permettent à la Chine de promulguer des règles de tolérance à l’importation transparentes, prévisibles et fondées sur les risques, sur la base des normes et directives internationales, reconnaissant que les LMR facilitent les échanges en assurant que les pesticides ont été appliqués conformément aux spécifications homologuées qui figurent sur l’étiquette et qu’elles ne sont pas des normes de sécurité alimentaire.  
-•	Que nous collaborions avec les gouvernements et nos partenaires afin de contenir les approches européennes fondées sur les dangers et de défendre les décisions fondées sur les risques permettant aux agriculteurs de continuer à accéder aux outils et technologies modernes qui les maintiennent compétitifs aux niveaux national et mondial.
+- Que nous collaborions avec les gouvernements et les partenaires afin de créer les conditions qui permettent à la Chine de promulguer des règles de tolérance à l’importation transparentes, prévisibles et fondées sur les risques, sur la base des normes et directives internationales, reconnaissant que les LMR facilitent les échanges en assurant que les pesticides ont été appliqués conformément aux spécifications homologuées qui figurent sur l’étiquette et qu’elles ne sont pas des normes de sécurité alimentaire.  
+- Que nous collaborions avec les gouvernements et nos partenaires afin de contenir les approches européennes fondées sur les dangers et de défendre les décisions fondées sur les risques permettant aux agriculteurs de continuer à accéder aux outils et technologies modernes qui les maintiennent compétitifs aux niveaux national et mondial.
 
 12 septembre 2018  Directive au personnel
 
 Stratégie de la Chine
 
-•	Si la politique de tolérance à l’importation de la Chine à l’égard du Canada devait être prévisible, ce marché constituerait une priorité de travail de niveau inférieur.
+- Si la politique de tolérance à l’importation de la Chine à l’égard du Canada devait être prévisible, ce marché constituerait une priorité de travail de niveau inférieur.
 
 Union européenne (UE)
 
-•	Le niveau d’effort actuel est approprié, avec la participation au Groupe de travail sur les LMR et le commerce de CropLife International (CLI) et à l’Équipe commerciale de CropLife America (CLA).
-•	Il faudrait envisager d’élaborer une stratégie industrielle visant à faire face à la perte de matières actives sur le marché de l’UE.
+- Le niveau d’effort actuel est approprié, avec la participation au Groupe de travail sur les LMR et le commerce de CropLife International (CLI) et à l’Équipe commerciale de CropLife America (CLA).
+- Il faudrait envisager d’élaborer une stratégie industrielle visant à faire face à la perte de matières actives sur le marché de l’UE.
 
 
 ## Surveillance nationale des eaux de surface pour les pesticides
@@ -97,7 +97,7 @@ _En raison de l’absence d’un réseau pancanadien cohérent d’études sur l
 
 
 
-•	Que des protocoles nationaux robustes, clairs et transparents soient explorés afin de donner à l’ARLA la possibilité d’affiner en toute confiance les évaluations des risques postérieures à la mise sur le marché, au besoin, et de documenter l’efficacité des initiatives d’atténuation des risques menées par les producteurs et l’industrie.
+- Que des protocoles nationaux robustes, clairs et transparents soient explorés afin de donner à l’ARLA la possibilité d’affiner en toute confiance les évaluations des risques postérieures à la mise sur le marché, au besoin, et de documenter l’efficacité des initiatives d’atténuation des risques menées par les producteurs et l’industrie.
 
 
 22 janvier 2019    Directive au personnel
@@ -118,8 +118,8 @@ Participer activement au développement dans le but de s’assurer d’avoir son
 
 Mai 2019     Chaque trimestre
 
-•	Que le gouvernement de l’Ontario supprime immédiatement le règlement qui restreint l’utilisation des semences enrobées de néonicotinoïdes en vertu de la Loi sur les pesticides de l’Ontario, afin de permettre aux agriculteurs ontariens d’avoir le même accès à ces innovations sécuritaires en matière de protection des cultures que les agriculteurs d’autres provinces.
-•	Que le système provincial actuel de classification des pesticides, qui fait double emploi, soit remplacé par un système qui reconnaît et utilise les travaux dans ce domaine déjà effectués au niveau fédéral par l’ARLA.
+- Que le gouvernement de l’Ontario supprime immédiatement le règlement qui restreint l’utilisation des semences enrobées de néonicotinoïdes en vertu de la Loi sur les pesticides de l’Ontario, afin de permettre aux agriculteurs ontariens d’avoir le même accès à ces innovations sécuritaires en matière de protection des cultures que les agriculteurs d’autres provinces.
+- Que le système provincial actuel de classification des pesticides, qui fait double emploi, soit remplacé par un système qui reconnaît et utilise les travaux dans ce domaine déjà effectués au niveau fédéral par l’ARLA.
 
 
 
@@ -127,15 +127,15 @@ Mai 2019     Chaque trimestre
 
 Mai 2019     Chaque trimestre
 
-•	Que le CCOP soit liquidé et dissous, car il s’agit du seul organisme de règlementation provincial du genre au Canada et que ses travaux font à l’évidence double emploi avec ceux qui sont déjà réalisés par l’ARLA.
+- Que le CCOP soit liquidé et dissous, car il s’agit du seul organisme de règlementation provincial du genre au Canada et que ses travaux font à l’évidence double emploi avec ceux qui sont déjà réalisés par l’ARLA.
 
 
 ## Réforme des pesticides en Ontario – milieu urbain
 
 Mai 2019     Chaque trimestre
 
-•	Que le gouvernement de l’Ontario lève l’interdiction des pesticides dits « à des fins esthétiques », afin de rétablir des règles du jeu équitables pour les propriétaires de maison et les petits entrepreneurs de l’Ontario.
-•	Que nous ne soutenons pas la création d’une nouvelle classe de pesticides accordant un monopole en matière d’application aux opérateurs antiparasitaires agréés, au détriment des propriétaires de maison.
+- Que le gouvernement de l’Ontario lève l’interdiction des pesticides dits « à des fins esthétiques », afin de rétablir des règles du jeu équitables pour les propriétaires de maison et les petits entrepreneurs de l’Ontario.
+- Que nous ne soutenons pas la création d’une nouvelle classe de pesticides accordant un monopole en matière d’application aux opérateurs antiparasitaires agréés, au détriment des propriétaires de maison.
 
 
 
@@ -143,11 +143,11 @@ Mai 2019     Chaque trimestre
 
 Mai 2019     Chaque trimestre
 
-•	Que les examens préalables et postérieurs à la mise sur le marché tiennent davantage compte de la valeur sociale et économique.
-•	Que des directives soient fournies pour clarifier les risques acceptables et inacceptables, afin d’assurer la transparence.
-•	Que l’interprétation européenne du principe de précaution continue d’être rejetée et n’ait pas sa place dans la Loi – l’approche du Canada fondée sur les risques est appropriée et déjà compatible avec le « devoir de prévenir les préjudices » des régulateurs.
-•	Que les évaluations soient terminées en temps opportun, mais que les délais prescrits par la Loi ne sont pas appropriés.
-•	Que les dispositions de la Loi pour plus de transparence et d’ouverture continuent d’être bien équilibrées avec la protection des informations commerciales confidentielles, afin de stimuler l’innovation continue.
+- Que les examens préalables et postérieurs à la mise sur le marché tiennent davantage compte de la valeur sociale et économique.
+- Que des directives soient fournies pour clarifier les risques acceptables et inacceptables, afin d’assurer la transparence.
+- Que l’interprétation européenne du principe de précaution continue d’être rejetée et n’ait pas sa place dans la Loi – l’approche du Canada fondée sur les risques est appropriée et déjà compatible avec le « devoir de prévenir les préjudices » des régulateurs.
+- Que les évaluations soient terminées en temps opportun, mais que les délais prescrits par la Loi ne sont pas appropriés.
+- Que les dispositions de la Loi pour plus de transparence et d’ouverture continuent d’être bien équilibrées avec la protection des informations commerciales confidentielles, afin de stimuler l’innovation continue.
 
 
 
@@ -155,15 +155,15 @@ Mai 2019     Chaque trimestre
 
 12 septembre 2018   Directive au personnel
 
-•	Les conditions suivantes doivent être remplies avant qu’une conversation sur le recouvrement des coûts soit appropriée :
-o	Problèmes de protection des données (Protection des droits de propriété sur les données concernant les produits antiparasitaires) résolus à la satisfaction de l’industrie;
-o	Améliorations efficaces des processus; et
-o	Suffisamment de ressources allouées à l’ARLA pour s’assurer que la charge de travail peut être achevée dans un délai raisonnable.
+- Les conditions suivantes doivent être remplies avant qu’une conversation sur le recouvrement des coûts soit appropriée :
+  - Problèmes de protection des données (Protection des droits de propriété sur les données concernant les produits antiparasitaires) résolus à la satisfaction de l’industrie;
+  - Améliorations efficaces des processus; et
+  - Suffisamment de ressources allouées à l’ARLA pour s’assurer que la charge de travail peut être achevée dans un délai raisonnable.
 
-•	Les conditions pour que le recouvrement des coûts soit considéré incluent :
-o	Des exigences claires en matière de données;
-o	Des processus clairs et transparents; et
-o	Un respect rigoureux des délais, avec un recours utile en cas de non-respect.
+- Les conditions pour que le recouvrement des coûts soit considéré incluent :
+  - Des exigences claires en matière de données;
+  - Des processus clairs et transparents; et
+  - Un respect rigoureux des délais, avec un recours utile en cas de non-respect.
 
 
 ## Amélioration du processus de réévaluation de l’ARLA
@@ -172,13 +172,13 @@ Mai 2019     Chaque année
 
 Les changements apportés par l’ARLA à son processus de réévaluation en 2016 ont abouti à des évaluations des risques incomplètes et à des décisions trop conservatrices qui restreignent inutilement les utilisations à haute valeur économique.
 
-•	Que l’ARLA permette un dialogue technique à double sens significatif avec les intervenants avant le début et tout au long du processus de réévaluation.
-•	Que des consultations publiques sur le projet d’évaluation des risques soient organisées séparément de la décision proposée, qui comprend des mesures proposées d’atténuation des risques.
-•	Que le gouvernement du Canada reconnaisse officiellement le rôle économique que joue l’ARLA dans la facilitation ou l’interdiction d’accès des producteurs à des technologies innovantes en l’incluant dans son mandat et en allouant les ressources appropriées à ce travail.
+- Que l’ARLA permette un dialogue technique à double sens significatif avec les intervenants avant le début et tout au long du processus de réévaluation.
+- Que des consultations publiques sur le projet d’évaluation des risques soient organisées séparément de la décision proposée, qui comprend des mesures proposées d’atténuation des risques.
+- Que le gouvernement du Canada reconnaisse officiellement le rôle économique que joue l’ARLA dans la facilitation ou l’interdiction d’accès des producteurs à des technologies innovantes en l’incluant dans son mandat et en allouant les ressources appropriées à ce travail.
 
 12 septembre 2018    Directive au personnel
 
-•	Le Comité a donné comme instruction au personnel de plaider en faveur d’un mandat économique/de croissance pour l’ARLA. 
+- Le Comité a donné comme instruction au personnel de plaider en faveur d’un mandat économique/de croissance pour l’ARLA. 
 
 
 
@@ -188,13 +188,13 @@ _Les producteurs ont besoin d’accéder à l’ensemble des usages limités hom
 
 Mai 2018     Chaque semestre
 
-•	Qu’une approche crédible de gestion responsable du cycle de vie des pesticides, dirigée par l’industrie, soit élaborée et mise en œuvre de manière collaborative. Que cette approche comprenne implicitement l’adhésion à des normes nationales supervisées par l’industrie afin de soutenir le respect des directives homologuées figurant sur les étiquettes de pesticides et d’assurer la santé et la sécurité des personnes et de l’environnement.
+- Qu’une approche crédible de gestion responsable du cycle de vie des pesticides, dirigée par l’industrie, soit élaborée et mise en œuvre de manière collaborative. Que cette approche comprenne implicitement l’adhésion à des normes nationales supervisées par l’industrie afin de soutenir le respect des directives homologuées figurant sur les étiquettes de pesticides et d’assurer la santé et la sécurité des personnes et de l’environnement.
 
 12 septembre 2018    Directive au personnel
 
-•	Procéder de manière proactive à cette initiative même si l’ARLA ne considère pas ce sous-secteur comme une préoccupation majeure, car elle fera face à la survenance de problèmes supplémentaires par la surveillance nationale de l’eau dans l’avenir.
-•	Il est entendu qu’une politique de non-expédition à l’échelle de l’industrie serait la façon de s’assurer de la conformité. 
-•	Bien que CLC aide à la mise en place du programme, son fonctionnement devrait être payé par les groupes de producteurs. 
+- Procéder de manière proactive à cette initiative même si l’ARLA ne considère pas ce sous-secteur comme une préoccupation majeure, car elle fera face à la survenance de problèmes supplémentaires par la surveillance nationale de l’eau dans l’avenir.
+- Il est entendu qu’une politique de non-expédition à l’échelle de l’industrie serait la façon de s’assurer de la conformité. 
+- Bien que CLC aide à la mise en place du programme, son fonctionnement devrait être payé par les groupes de producteurs. 
 
 
 ## Pénurie de benzisothiazolinone (BIT)
@@ -203,9 +203,9 @@ _Des modifications aux préparations chimiques homologuées sont nécessaires po
 
 Mai 2019     Chaque trimestre
 
-•	Qu’en guise de mesure provisoire pour remédier à la pénurie de BIT, l’ARLA fournisse une liste préapprouvée de produits de remplacement non-BIT pouvant être ajoutés aux préparations.
-•	Que l’autocertification et les avis sur les lots comportant des produits de remplacement non-BIT soient acceptés pour remédier à la pénurie de BIT.
-•	Que l’ARLA accélère l’approbation des demandes de catégorie C pour les modifications de préparations afin d’inclure les produits de remplacement non-BIT.
+- Qu’en guise de mesure provisoire pour remédier à la pénurie de BIT, l’ARLA fournisse une liste préapprouvée de produits de remplacement non-BIT pouvant être ajoutés aux préparations.
+- Que l’autocertification et les avis sur les lots comportant des produits de remplacement non-BIT soient acceptés pour remédier à la pénurie de BIT.
+- Que l’ARLA accélère l’approbation des demandes de catégorie C pour les modifications de préparations afin d’inclure les produits de remplacement non-BIT.
 
 
 
@@ -215,7 +215,7 @@ _Cette politique menée par l’industrie s’efforce de ménager un juste équi
 
 Mai 2019    Chaque trimestre
 
-•	Que la politique est un travail en cours auquel CropLife Canada et ses membres participent activement en vue d’une amélioration continue.
+- Que la politique est un travail en cours auquel CropLife Canada et ses membres participent activement en vue d’une amélioration continue.
 
 
 
@@ -223,7 +223,7 @@ Mai 2019    Chaque trimestre
 
 12 septembre 2018    Résolution
 
-•	Résolution : Que le soutien à la CAAR soit laissé à la discrétion de chaque entreprise, que la représentation de CropLife Canada au conseil de la CAAR ne semble pas nécessaire pour le moment et que CropLife Canada soutienne plutôt le conseil de la CAAR lorsqu’elle est en phase avec les priorités de CropLife Canada.
+- Résolution : Que le soutien à la CAAR soit laissé à la discrétion de chaque entreprise, que la représentation de CropLife Canada au conseil de la CAAR ne semble pas nécessaire pour le moment et que CropLife Canada soutienne plutôt le conseil de la CAAR lorsqu’elle est en phase avec les priorités de CropLife Canada.
 
 
 ## Défendre les innovations de l’agriculture moderne
@@ -232,16 +232,16 @@ Mai 2019    Chaque trimestre
 
 _Comme on l’a vu avec le glyphosate aux États-Unis et ailleurs, si on ne l’alimente pas avec d’autres éléments, l’opinion publique peut déjouer les décisions règlementaires basées sur le risque et pourrait éventuellement limiter toute défense que pourrait tenter de faire le gouvernement du Canada de son système de règlementation des pesticides ou de produits chimiques particuliers._
 
-•	Que CropLife Canada s’emploie à accroître la compréhension et l’appréciation par les décideurs de la complexité des systèmes utilisés pour produire les aliments que nous mangeons, de leur qualité, de leur prix abordable et de nombreux autres avantages, notamment :
-o	les innovations de la phytologie sont conçues pour produire plus d’aliments;
-o	les pesticides sont conçus pour éliminer les ravageurs qui menacent la production; et
-o	ces deux « catégories » sont soigneusement règlementées afin d’assurer leur sécurité pour les personnes, les animaux et l’environnement.
-•	Que CropLife Canada continue de défendre les avantages avérés de l’agriculture moderne et que les risques potentiels soient cernés, étudiés en profondeur et atténués de manière proactive par Santé Canada et l’ARLA. Ces avantages comprennent :
-o	une alimentation à prix abordable, de haute qualité et variée de fruits, de légumes et de céréales;
-o	une empreinte carbone agricole moindre (moins d’utilisation de combustibles fossiles, séquestration du carbone); et
-o	la restauration et la conservation des habitats fauniques.
-•	Que les décideurs gouvernementaux reconnaissent que le succès des solutions chimiques devrait être une cible privilégiée pour le financement à la fois des chercheurs véritablement curieux et des opposants à l’agriculture moderne.
-o	Plus il y a d’études, plus il y a de résultats aberrants que l’on peut utiliser sélectivement pour prouver un point, qu’il soit positif ou négatif.
+- Que CropLife Canada s’emploie à accroître la compréhension et l’appréciation par les décideurs de la complexité des systèmes utilisés pour produire les aliments que nous mangeons, de leur qualité, de leur prix abordable et de nombreux autres avantages, notamment :
+  - les innovations de la phytologie sont conçues pour produire plus d’aliments;
+  - les pesticides sont conçus pour éliminer les ravageurs qui menacent la production; et
+  - ces deux « catégories » sont soigneusement règlementées afin d’assurer leur sécurité pour les personnes, les animaux et l’environnement.
+- Que CropLife Canada continue de défendre les avantages avérés de l’agriculture moderne et que les risques potentiels soient cernés, étudiés en profondeur et atténués de manière proactive par Santé Canada et l’ARLA. Ces avantages comprennent :
+  - une alimentation à prix abordable, de haute qualité et variée de fruits, de légumes et de céréales;
+  - une empreinte carbone agricole moindre (moins d’utilisation de combustibles fossiles, séquestration du carbone); et
+  - la restauration et la conservation des habitats fauniques.
+- Que les décideurs gouvernementaux reconnaissent que le succès des solutions chimiques devrait être une cible privilégiée pour le financement à la fois des chercheurs véritablement curieux et des opposants à l’agriculture moderne.
+  - Plus il y a d’études, plus il y a de résultats aberrants que l’on peut utiliser sélectivement pour prouver un point, qu’il soit positif ou négatif.
 
 
 
@@ -250,13 +250,13 @@ o	Plus il y a d’études, plus il y a de résultats aberrants que l’on peut u
 
 12 septembre 2018   Directive au personnel
 
-•	La décision de procéder à un ajout à l’étiquette afin d’inclure l’application par drone incombe aux entreprises individuelles.
+- La décision de procéder à un ajout à l’étiquette afin d’inclure l’application par drone incombe aux entreprises individuelles.
 
 ## Gérer la résistance maintenant
 
 Mai 2019     Chaque année
 
-•	Que la résistance aux technologies de la phytologie est un problème grave tant pour le secteur de la protection des cultures que pour le monde agricole en général et que le personnel de CropLife Canada s’engage à faire de la gestion de cette résistance une priorité absolue au sein de l’organisation.
+- Que la résistance aux technologies de la phytologie est un problème grave tant pour le secteur de la protection des cultures que pour le monde agricole en général et que le personnel de CropLife Canada s’engage à faire de la gestion de cette résistance une priorité absolue au sein de l’organisation.
 
 
 
@@ -264,10 +264,10 @@ Mai 2019     Chaque année
 
 Mai 2019     Chaque année
 
-•	Que les technologies de la phytologie aident à faire croître l’économie, à protéger l’environnement et à bâtir des collectivités plus robustes d’un bout à l’autre du Canada.
-•	Que les pesticides et la biotechnologie végétale ont aidé à sauver plus de 35 millions d’acres de terres en habitat naturel et à protéger la biodiversité du Canada.
-•	Que 8,3 milliards $, ou 71 % de la balance commerciale du Canada pour les végétaux, découlent directement des innovations en protection des cultures et en biotechnologie végétale.
-•	Que les familles canadiennes économisent en moyenne 4 400 $ par année en dépenses alimentaires grâce aux pratiques agricoles efficaces qui génèrent des rendements plus élevés
+- Que les technologies de la phytologie aident à faire croître l’économie, à protéger l’environnement et à bâtir des collectivités plus robustes d’un bout à l’autre du Canada.
+- Que les pesticides et la biotechnologie végétale ont aidé à sauver plus de 35 millions d’acres de terres en habitat naturel et à protéger la biodiversité du Canada.
+- Que 8,3 milliards $, ou 71 % de la balance commerciale du Canada pour les végétaux, découlent directement des innovations en protection des cultures et en biotechnologie végétale.
+- Que les familles canadiennes économisent en moyenne 4 400 $ par année en dépenses alimentaires grâce aux pratiques agricoles efficaces qui génèrent des rendements plus élevés
 
 
 
@@ -275,12 +275,12 @@ Mai 2019     Chaque année
 
 Mai 2019     Deux fois l’an
 
-•	Que :
-o	Le plus grand volume d’utilisation des néonics se trouve dans l’Ouest canadien sous forme de traitements de semences et cela ne préoccupe pas les apiculteurs locaux – le nombre de colonies d’abeilles dans l’Ouest canadien est environ cinq fois supérieur à celui du Québec et de l’Ontario réunis.
-o	Dans ses décisions définitives publiées en avril 2019 sur la réévaluation du risque pour les pollinisateurs, l’ARLA concluait que les traitements de semences aux néonicotinoïdes et l’utilisation des néonics sur les légumes cultivés en serre ne constituaient pas un risque inacceptable pour les abeilles et autres pollinisateurs. 
-o	Selon les données de Statistique Canada pour 2018, le nombre de colonies à l’échelle nationale n’a cessé d’augmenter depuis de nombreuses années, malgré l’utilisation intensive de pesticides néonicotinoïdes.
-	Il y avait 5 % de colonies d’abeilles en moins en Ontario, mais la production de miel avait augmenté d’environ 35 %.  
-	Le nombre de colonies d’abeilles au Québec avait augmenté de 6,5 %, avec à la clé une augmentation correspondante de la production de miel. 
+- Que :
+  - Le plus grand volume d’utilisation des néonics se trouve dans l’Ouest canadien sous forme de traitements de semences et cela ne préoccupe pas les apiculteurs locaux – le nombre de colonies d’abeilles dans l’Ouest canadien est environ cinq fois supérieur à celui du Québec et de l’Ontario réunis.
+  - Dans ses décisions définitives publiées en avril 2019 sur la réévaluation du risque pour les pollinisateurs, l’ARLA concluait que les traitements de semences aux néonicotinoïdes et l’utilisation des néonics sur les légumes cultivés en serre ne constituaient pas un risque inacceptable pour les abeilles et autres pollinisateurs. 
+  - Selon les données de Statistique Canada pour 2018, le nombre de colonies à l’échelle nationale n’a cessé d’augmenter depuis de nombreuses années, malgré l’utilisation intensive de pesticides néonicotinoïdes.
+    - Il y avait 5 % de colonies d’abeilles en moins en Ontario, mais la production de miel avait augmenté d’environ 35 %.  
+    - Le nombre de colonies d’abeilles au Québec avait augmenté de 6,5 %, avec à la clé une augmentation correspondante de la production de miel. 
 
 
 
@@ -289,10 +289,10 @@ o	Selon les données de Statistique Canada pour 2018, le nombre de colonies à l
 
 Mai 2019     Chaque trimestre
 
-•	Que la réforme règlementaire est cruciale pour que l’agriculture joue un rôle clé dans le succès de l’économie canadienne, tel que décrit dans les rapports des Tables sectorielles de stratégies économiques.
-•	Que la promesse d’améliorer l’environnement règlementaire du secteur est une avancée bienvenue pour les entreprises agroalimentaires canadiennes. Toutefois, le gouvernement doit mettre en œuvre des mesures directes pour présenter au monde nos produits agroalimentaires sûrs et de grande qualité.
-•	Que tous les ministères et départements, plus particulièrement Santé Canada, l’ARLA et l’ACIA, doivent aller de l’avant avec des mesures qui, tout en garantissant la santé et la sécurité, aident l’industrie à se développer, à innover et à produire des aliments destinés à la consommation intérieure et à l’exportation. 
-•	Que nous en appelons à la responsabilité et à l’action pour faire en sorte que le secteur reçoive le soutien dont il a besoin pour améliorer sa compétitivité.
+- Que la réforme règlementaire est cruciale pour que l’agriculture joue un rôle clé dans le succès de l’économie canadienne, tel que décrit dans les rapports des Tables sectorielles de stratégies économiques.
+- Que la promesse d’améliorer l’environnement règlementaire du secteur est une avancée bienvenue pour les entreprises agroalimentaires canadiennes. Toutefois, le gouvernement doit mettre en œuvre des mesures directes pour présenter au monde nos produits agroalimentaires sûrs et de grande qualité.
+- Que tous les ministères et départements, plus particulièrement Santé Canada, l’ARLA et l’ACIA, doivent aller de l’avant avec des mesures qui, tout en garantissant la santé et la sécurité, aident l’industrie à se développer, à innover et à produire des aliments destinés à la consommation intérieure et à l’exportation. 
+- Que nous en appelons à la responsabilité et à l’action pour faire en sorte que le secteur reçoive le soutien dont il a besoin pour améliorer sa compétitivité.
 
 
 
@@ -300,9 +300,9 @@ Mai 2019     Chaque trimestre
 
 Mai 2019     Chaque année
 
-•	Que les pesticides employés en milieu urbain protègent les espaces verts publics et privés des insectes, des mauvaises herbes et des maladies.
-•	Que les propriétaires d’habitations bénéficient de la lutte contre un large éventail de parasites, y compris : coquerelles, fourmis, araignées, lépismes argentés, mouches, moustiques, puces, tiques et punaises de lit, rats et souris.
-•	Que les produits antiparasitaires sont également utilisés dans les plastiques, les peintures et le calfeutrage pour prévenir les moisissures, ainsi que dans les nettoyants et désinfectants pour cuvettes de toilettes afin de protéger la santé.
+- Que les pesticides employés en milieu urbain protègent les espaces verts publics et privés des insectes, des mauvaises herbes et des maladies.
+- Que les propriétaires d’habitations bénéficient de la lutte contre un large éventail de parasites, y compris : coquerelles, fourmis, araignées, lépismes argentés, mouches, moustiques, puces, tiques et punaises de lit, rats et souris.
+- Que les produits antiparasitaires sont également utilisés dans les plastiques, les peintures et le calfeutrage pour prévenir les moisissures, ainsi que dans les nettoyants et désinfectants pour cuvettes de toilettes afin de protéger la santé.
 
 
 ## Vision, mandat et valeurs
