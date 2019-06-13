@@ -1,22 +1,19 @@
 <!doctype html>
-<html manifest="manifest.manifest" lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title | default: site.github.repository_name }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="assets/css/style.css">
     <meta name="viewport" content="width=device-width">
-    <!-- Add to HomeScreen pop-up  -->
-    <script src="addtohomescreen.js"></script>
-    <link rel="stylesheet" type="text/css" href="addtohomescreen.css">
     <!-- Favicons and general manifests  -->
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png?v=kPxo4RYkpx">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png?v=kPxo4RYkpx">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png?v=kPxo4RYkpx">
-    <link rel="manifest" href="manifest.json?v=kPxo4RYkpx">
-    <link rel="mask-icon" href="safari-pinned-tab.svg?v=kPxo4RYkpx" color="#5bbad5">
-    <link rel="shortcut icon" href="favicon.ico?v=kPxo4RYkpx">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="manifest.json">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="favicon.ico">
     <meta name="apple-mobile-web-app-title" content="Policy Manual">
     <meta name="application-name" content="Policy Manual">
     <meta name="theme-color" content="#ffffff">
@@ -24,7 +21,7 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <!-- Styles for printing -->
-    <link rel="stylesheet" media="print" type="text/css" href="{{ '/assets/css/print.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" media="print" type="text/css" href="assets/css/print.css">
     <script src="jquery-3.4.1.min.js"></script>
     <script>
       $( document ).ready(function() {
@@ -120,20 +117,10 @@
         
       });
       
-    </script>
-    <script>
-    addToHomescreen({
-      skipFirstVisit: false,
-      maxDisplayCount: 5,
-      lifespan: 30,
-      debug: false
-    });
-  	</script>
-    <script>
-      // Refresh page on app manifest update
-      // https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/SafariJSDatabaseGuide/OfflineApplicationCache/OfflineApplicationCache.html
-      function updateSite(event) {window.applicationCache.swapCache();}
-      window.applicationCache.addEventListener('updateready', updateSite, false);
+      // Load service worker for modern browsers for offline mode
+      if('serviceWorker' in navigator) {
+          navigator.serviceWorker.register('sw.js');
+      };
     </script>
   </body>
 </html>
