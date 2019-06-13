@@ -44,7 +44,7 @@
     </script>
   </head>
   <body>
-    <div id="headbar" style="margin: 0;top: 0;left: 0;position: absolute;padding: 0.5em;width: 100%;background-color: rgb(135, 135, 135);color: white;display: flex;justify-content: space-between;"><div id="updated" style="display: inline-block;">Updated {{ site.time | date: "%F" }}</div><div id="howto" style="display: inline-block;">Add to homescreen</div></div>
+    <div id="headbar" style="margin: 0;top: 0;left: 0;position: absolute;padding: 0.5em;width: 100%;background-color: rgb(135, 135, 135);color: white;display: flex;justify-content: space-between;"><div id="updated" style="display: inline-block;">Updated {{ site.time | date: "%F" }}</div><div id="howto" style="display: inline-block;margin-right:1em;">Add to homescreen</div></div>
     <div id="headbar-notification" style="margin: 0;top: 0;left: 0;position: absolute;padding: 0.5em;width: 100%;background-color: green;color: white;display:none;text-align:center;z-index:5;">Updated version available! Click here to update</div>
     <div class="wrapper">
       <header>
@@ -115,6 +115,10 @@
             event.preventDefault();
             window.location.href = $(this).attr('href');
             return false;
+        });
+        
+        $('#howto').click(function (event) {
+          alert("Instructions to add to homescreen.")
         });
         
       });
