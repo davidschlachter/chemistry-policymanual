@@ -4,16 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title | default: site.github.repository_name }}</title>
-    <link rel="stylesheet" href="assets/css/style.css?v={{ site.time | date: '%s' }}">
+    <link rel="stylesheet" href="assets/css/style.css">
     <meta name="viewport" content="width=device-width">
     <!-- Favicons and general manifests  -->
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png?v={{ site.time | date: '%s' }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png?v={{ site.time | date: '%s' }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png?v={{ site.time | date: '%s' }}">
-    <link rel="manifest" href="manifest.json?v={{ site.time | date: '%s' }}">
-    <link rel="mask-icon" href="safari-pinned-tab.svg?v={{ site.time | date: '%s' }}" color="#5bbad5">
-    <link rel="shortcut icon" href="favicon.ico?v={{ site.time | date: '%s' }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="manifest.json">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="favicon.ico">
     <meta name="apple-mobile-web-app-title" content="Policy Manual">
     <meta name="application-name" content="Policy Manual">
     <meta name="theme-color" content="#ffffff">
@@ -21,7 +21,7 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <!-- Styles for printing -->
-    <link rel="stylesheet" media="print" type="text/css" href="assets/css/print.css?v={{ site.time | date: '%s' }}">
+    <link rel="stylesheet" media="print" type="text/css" href="assets/css/print.css">
     <script src="jquery-3.4.1.min.js"></script>
     <script>
       $( document ).ready(function() {
@@ -44,13 +44,14 @@
     </script>
   </head>
   <body>
-    <div id="headbar" style="margin: 0;top: 0;left: 0;position: absolute;padding: 0.5em;width: 100%;background-color: green;color: white;display: flex;justify-content: space-between;"><div id="updated" style="display: inline-block;">Updated {{ site.time | date: "%F" }}</div><div id="howto" style="display: inline-block;">Add to homescreen</div></div>
+    <div id="headbar" style="margin: 0;top: 0;left: 0;position: absolute;padding: 0.5em;width: 100%;background-color: rgb(135, 135, 135);color: white;display: flex;justify-content: space-between;"><div id="updated" style="display: inline-block;">Updated {{ site.time | date: "%F" }}</div><div id="howto" style="display: inline-block;">Add to homescreen</div></div>
+    <div id="headbar-notification" style="margin: 0;top: 0;left: 0;position: absolute;padding: 0.5em;width: 100%;background-color: green;color: white;display:none;text-align:center;z-index:5;"><div id="updated" style="display: inline-block;">Updated version available! Click here to update</div>
     <div class="wrapper">
       <header>
-        <img id="logo" src="croplife-logo.png?v={{ site.time | date: '%s' }}" alt="Crop Life Canada logo"/>
+        <img id="logo" src="croplife-logo.png" alt="Crop Life Canada logo"/>
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p id="sitedescriptiontext">{{ site.description | default: site.github.project_tagline }}</p>
-        <p id="languageparagraph"><strong><a href="français.html?v={{ site.time | date: '%s' }}">Version française</a></strong></p>
+        <p id="languageparagraph"><strong><a href="français.html">Version française</a></strong></p>
         <p id="contactparagraph" class="view"><a href="mailto:{{ site.contactaddress }}">Contact us</a></p>
       </header>
       <section>
@@ -62,7 +63,7 @@
       </footer>
     </div>
     <button onclick="topFunction()" id="backToTop" title="Back to top">▲ Back to top</button>
-    <script src="{{ '/assets/js/scale.fix.js?v={{ site.time | date: '%s' }}' | relative_url }}"></script>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <script>
       // When the user scrolls down 100px from the top of the document, show the button
       window.onscroll = function() {scrollFunction()};
@@ -99,7 +100,7 @@
               .replace('Issue', 'Édition');
           });
           $("#contactparagraph a").html("Contactez-nous");
-          $("#languageparagraph").html("<strong><a href=\"index.html?v={{ site.time | date: '%s' }}\">English version</a></strong>");
+          $("#languageparagraph").html("<strong><a href=\"index.html\">English version</a></strong>");
           $("#backToTop").html("▲ Haut de page");
         }
         
@@ -119,9 +120,48 @@
       });
       
       // Load service worker for modern browsers for offline mode
-      if('serviceWorker' in navigator) {
-          navigator.serviceWorker.register('sw.js');
-      };
+      let newWorker;
+
+        // The click event on the notification
+        document.getElementById('headbar-notification').addEventListener('click', function(){
+          newWorker.postMessage({ action: 'skipWaiting' });
+        });
+
+        if ('serviceWorker' in navigator) {
+          // Register the service worker
+          navigator.serviceWorker.register('/sw.js').then(reg => {
+            reg.addEventListener('updatefound', () => {
+
+              // An updated service worker has appeared in reg.installing!
+              newWorker = reg.installing;
+
+              newWorker.addEventListener('statechange', () => {
+
+                // Has service worker state changed?
+                switch (newWorker.state) {
+                  case 'installed':
+
+      	// There is a new service worker available, show the notification
+                    if (navigator.serviceWorker.controller) {
+                      let notification = document.getElementById('headbar-notification');
+          notification .className = 'show';
+                    }
+
+                    break;
+                }
+              });
+            });
+          });
+
+        }
+        let refreshing;
+           // The event listener that is fired when the service worker updates
+           // Here we reload the page
+            navigator.serviceWorker.addEventListener('controllerchange', function () {
+              if (refreshing) return;
+              window.location.reload();
+              refreshing = true;
+            });
     </script>
   </body>
 </html>
