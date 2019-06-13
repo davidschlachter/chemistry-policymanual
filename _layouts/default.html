@@ -118,7 +118,11 @@
         });
         
         $('#howto').click(function (event) {
-          alert("On iOS: click the Share button, then 'Add to homescreen'. On Android: click the options menu (three vertical dots), then 'Add to homescreen'.")
+          if (window.location.pathname.indexOf('fran') > -1) {
+            alert("iOS : Pour ajouter cette application web sur l'écran d'accueil : Appuyez le bouton de Partage et sélectionnez 'Ajouter sur l'écran d'accueil'. Android: Appuyez sur le bouton menu puis sur 'Ajouter sur l'écran d'accueil. Le menu se trouve probablement dans la coin supérieur droit du navigateur.")
+          } else {
+            alert("On iOS: click the Share button, then 'Add to homescreen'. On Android: click the options menu (three vertical dots), then 'Add to homescreen'.")
+          }
         });
         
       });
