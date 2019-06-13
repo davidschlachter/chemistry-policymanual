@@ -1,28 +1,28 @@
 ---
 ---
 
-var cacheName = "chemcommittee-{{ site.time | date_to_xmlschema }}";
+var cacheName = "chemcommittee-{{ site.time | date: '%s' }}";
 var contentToCache = [
-"assets/css/style.css",
-"assets/css/print.css",
-"assets/js/scale.fix.js",
+"assets/css/style.css?v={{ site.time | date: '%s' }}",
+"assets/css/print.css?v={{ site.time | date: '%s' }}",
+"assets/js/scale.fix.js?v={{ site.time | date: '%s' }}",
 "assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2",
 "assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2",
 "assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2",
-"safari-pinned-tab.svg",
-"mstile-150x150.png",
-"manifest.json",
+"safari-pinned-tab.svg?v={{ site.time | date: '%s' }}",
+"mstile-150x150.png?v={{ site.time | date: '%s' }}",
+"manifest.json?v={{ site.time | date: '%s' }}",
 "jquery-3.4.1.min.js",
-"index.html",
-"français.html",
-"favicon.ico",
-"favicon-32x32.png",
-"favicon-16x16.png",
-"croplife-logo.png",
-"browserconfig.xml",
-"apple-touch-icon.png",
-"android-chrome-512x512.png",
-"android-chrome-192x192.png"
+"index.html?v={{ site.time | date: '%s' }}",
+"français.html?v={{ site.time | date: '%s' }}",
+"favicon.ico?v={{ site.time | date: '%s' }}",
+"favicon-32x32.png?v={{ site.time | date: '%s' }}",
+"favicon-16x16.png?v={{ site.time | date: '%s' }}",
+"croplife-logo.png?v={{ site.time | date: '%s' }}",
+"browserconfig.xml?v={{ site.time | date: '%s' }}",
+"apple-touch-icon.png?v={{ site.time | date: '%s' }}",
+"android-chrome-512x512.png?v={{ site.time | date: '%s' }}",
+"android-chrome-192x192.png?v={{ site.time | date: '%s' }}"
 ];
 
 
