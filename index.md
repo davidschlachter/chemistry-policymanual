@@ -49,8 +49,8 @@ Committee Support: [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgstall
 - January 22, 2019 - Calgary
 - April 16, 2019 – teleconference/webinar
 - May 1, 2019 - Spring Dialogue Days, Ottawa
-- September 17, 2019 – Edmonton, Alberta
 - December 5, 2019 - GrowCanada, Calgary
+- January 20, 2020 - Winnipeg, Manitoba
 
 ## Fungicides: Pollinator health (see also Pollinators and neonics)
 
